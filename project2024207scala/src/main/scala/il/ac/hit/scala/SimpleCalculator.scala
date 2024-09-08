@@ -1,5 +1,12 @@
 package il.ac.hit.scala
 
+//Assignment 5
+/*
+You should develop a simple application that works as a simple calculator.
+When running this calculator we should pass over three arguments. The first and the
+third arguments should be plain simple numbers. The second argument should be one of
+the following strings: +, -, * or /. Your implementation should use the match statement.
+ */
 @main 
 def SimpleCalculator(args: String*): Unit =
   if (args.length != 3) {

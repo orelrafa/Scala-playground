@@ -1,5 +1,7 @@
 package il.ac.hit.scala
 
+//Assignment 3 - part 2/2
+
 @main
 def SumWhileLoopScala3(): Unit =
   var sum = 0

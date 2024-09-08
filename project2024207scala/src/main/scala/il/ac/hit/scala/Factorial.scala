@@ -1,5 +1,11 @@
 package il.ac.hit.scala
 
+//Assignment 4
+/*
+Define the factorial function. You should implement it in two versions:
+1. recursive function
+2. not recursive function (implemented using a simple while)
+ */
 @main
 def main(): Unit =
 
